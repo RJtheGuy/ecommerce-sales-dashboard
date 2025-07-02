@@ -1,0 +1,22 @@
+COMMERCIAL LICENSE AGREEMENT
+
+E-commerce Sales Dashboard
+Copyright (c) 2025 [Your Name]
+
+PERMITTED USES:
+✅ Use for internal business operations
+✅ Use for client reporting (agencies/consultants)
+✅ Modify and customize for your needs
+✅ Deploy on your own infrastructure
+
+PROHIBITED USES:
+❌ Reselling or redistributing the code
+❌ Removing copyright notices
+❌ Using for competing analytics products
+❌ Open source distribution
+
+DISCLAIMER:
+This software is provided "as is" without warranty of any kind.
+The author is not liable for any damages arising from its use.
+
+For questions about licensing: your-email@example.com

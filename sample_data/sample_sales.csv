@@ -1,0 +1,4 @@
+date,product_name,category,quantity,unit_price,total_amount,customer_id,customer_location
+2024-01-15,iPhone 15,Electronics,1,999.00,999.00,1001,CA
+2024-01-15,Premium T-Shirt,Clothing,2,39.99,79.98,1002,TX
+2024-01-15,Coffee Maker,Home & Garden,1,149.99,149.99,1003,FL
