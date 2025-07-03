@@ -3,7 +3,7 @@
 A professional, interactive sales analytics dashboard built with Streamlit and Plotly. Perfect for small to medium e-commerce businesses who need powerful insights without the enterprise price tag.
 
 ## 🚀 Live Demo
-[View Dashboard](https://your-app-name.streamlit.app)
+[View Dashboard]([https://your-app-name.streamlit.app](https://ecommerce-sales-dashboard-f52f57kcy5kyr2cgpkbukt.streamlit.app/))
 
 ## ✨ Features
 
